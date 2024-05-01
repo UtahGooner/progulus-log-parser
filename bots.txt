@@ -1,0 +1,184 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot)",
+    "count": 3580,
+    "known": true,
+    "first": "01/May/2024:10:38:05 -0300",
+    "last": "01/May/2024:14:39:25 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
+    "count": 1164,
+    "known": true,
+    "first": "01/May/2024:10:42:50 -0300",
+    "last": "01/May/2024:14:39:15 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)",
+    "count": 1079,
+    "known": true,
+    "first": "01/May/2024:10:38:19 -0300",
+    "last": "01/May/2024:14:39:12 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.91 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "count": 583,
+    "known": true,
+    "first": "01/May/2024:10:38:09 -0300",
+    "last": "01/May/2024:14:38:58 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.0.0 Safari/537.36",
+    "count": 493,
+    "known": true,
+    "first": "01/May/2024:10:38:14 -0300",
+    "last": "01/May/2024:14:27:16 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)",
+    "count": 289,
+    "known": true,
+    "first": "01/May/2024:10:38:50 -0300",
+    "last": "01/May/2024:14:38:40 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)",
+    "count": 247,
+    "known": true,
+    "first": "01/May/2024:10:38:58 -0300",
+    "last": "01/May/2024:14:39:15 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com)",
+    "count": 118,
+    "known": true,
+    "first": "01/May/2024:10:58:40 -0300",
+    "last": "01/May/2024:14:07:16 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",
+    "count": 74,
+    "known": true,
+    "first": "01/May/2024:10:41:38 -0300",
+    "last": "01/May/2024:14:34:25 -0300"
+  },
+  {
+    "userAgent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)",
+    "count": 62,
+    "known": true,
+    "first": "01/May/2024:10:39:50 -0300",
+    "last": "01/May/2024:14:35:21 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "count": 59,
+    "known": true,
+    "first": "01/May/2024:10:38:11 -0300",
+    "last": "01/May/2024:13:51:37 -0300"
+  },
+  {
+    "userAgent": "Googlebot-Image/1.0",
+    "count": 54,
+    "known": true,
+    "first": "01/May/2024:11:47:51 -0300",
+    "last": "01/May/2024:14:34:21 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0",
+    "count": 43,
+    "known": true,
+    "first": "01/May/2024:14:10:08 -0300",
+    "last": "01/May/2024:14:11:50 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.94 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "count": 18,
+    "known": true,
+    "first": "01/May/2024:11:02:17 -0300",
+    "last": "01/May/2024:14:33:02 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/100.0.4896.127 Safari/537.36",
+    "count": 14,
+    "known": true,
+    "first": "01/May/2024:13:36:54 -0300",
+    "last": "01/May/2024:13:36:55 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0",
+    "count": 13,
+    "known": true,
+    "first": "01/May/2024:10:57:30 -0300",
+    "last": "01/May/2024:14:11:10 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/122.0.6261.94 Safari/537.36",
+    "count": 11,
+    "known": true,
+    "first": "01/May/2024:13:41:17 -0300",
+    "last": "01/May/2024:14:39:28 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "count": 9,
+    "known": true,
+    "first": "01/May/2024:13:41:09 -0300",
+    "last": "01/May/2024:14:39:14 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "count": 7,
+    "known": true,
+    "first": "01/May/2024:12:05:19 -0300",
+    "last": "01/May/2024:13:46:08 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "count": 5,
+    "known": true,
+    "first": "01/May/2024:10:51:34 -0300",
+    "last": "01/May/2024:11:42:00 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)",
+    "count": 5,
+    "known": true,
+    "first": "01/May/2024:10:57:29 -0300",
+    "last": "01/May/2024:14:10:08 -0300"
+  },
+  {
+    "userAgent": "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)",
+    "count": 4,
+    "known": true,
+    "first": "01/May/2024:11:14:21 -0300",
+    "last": "01/May/2024:11:48:39 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; MojeekBot/0.11; +https://www.mojeek.com/bot.html)",
+    "count": 4,
+    "known": true,
+    "first": "01/May/2024:13:36:33 -0300",
+    "last": "01/May/2024:14:05:38 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "count": 3,
+    "known": true,
+    "first": "01/May/2024:11:17:15 -0300",
+    "last": "01/May/2024:12:33:59 -0300"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)",
+    "count": 1,
+    "known": true,
+    "first": "01/May/2024:13:10:31 -0300",
+    "last": "01/May/2024:13:10:31 -0300"
+  },
+  {
+    "userAgent": "DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html)",
+    "count": 1,
+    "known": true,
+    "first": "01/May/2024:14:26:53 -0300",
+    "last": "01/May/2024:14:26:53 -0300"
+  }
+]
